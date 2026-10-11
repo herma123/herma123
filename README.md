@@ -91,18 +91,3 @@ I'm interested in small development tasks and practical projects involving:
 - Debugging, fixing, and improving existing Python code.
 
 Project scope and requirements are discussed individually.
-
-"05" / GITHUB ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herma123" width="100%" />
-  
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herma123&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="100%" />
-</p>---
-
-<p align="center">
-  <samp>BUILD · LEARN · IMPROVE · REPEAT</samp>
-</p><p align="center">
-  <a href="https://github.com/herma123?tab=repositories">EXPLORE MY REPOSITORIES</a>
-</p>
