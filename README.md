@@ -95,7 +95,7 @@ Project scope and requirements are discussed individually.
 "05" / GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herma123&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herma123" width="100%" />
   
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herma123&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa" width="100%" />
